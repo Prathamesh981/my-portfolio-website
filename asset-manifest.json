@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/my-portfolio-website/static/js/main.dafd3da1.js",
+    "main.js": "/my-portfolio-website/static/js/main.900edb69.js",
     "static/media/colour-yellow.png": "/my-portfolio-website/static/media/colour-yellow.af5f4d685c8146a1d3bf.png",
     "static/media/spice-garden-ss.png": "/my-portfolio-website/static/media/spice-garden-ss.11403abf79baa98ec66a.png",
     "static/media/omnifood-ss.png": "/my-portfolio-website/static/media/omnifood-ss.768884ece29decbd6c55.png",
     "static/media/ahara-rasa.png": "/my-portfolio-website/static/media/ahara-rasa.90759c7b83e8b23895d8.png",
     "static/media/Prathamesh-Photo_cropped-fotor-bg-remover-20250518211415.png": "/my-portfolio-website/static/media/Prathamesh-Photo_cropped-fotor-bg-remover-20250518211415.d3f28356a47c63410c82.png",
     "static/media/zibaash.png": "/my-portfolio-website/static/media/zibaash.3e8ad92c6f72ae6abea5.png",
-    "static/media/Prathamesh-Yadav-Resume.pdf": "/my-portfolio-website/static/media/Prathamesh-Yadav-Resume.c6ab4bb91f9aab1005a0.pdf",
+    "static/media/Prathamesh-Yadav-Resume.pdf": "/my-portfolio-website/static/media/Prathamesh-Yadav-Resume.5909080e5867fe2239bb.pdf",
     "index.html": "/my-portfolio-website/index.html",
-    "main.dafd3da1.js.map": "/my-portfolio-website/static/js/main.dafd3da1.js.map"
+    "main.900edb69.js.map": "/my-portfolio-website/static/js/main.900edb69.js.map"
   },
   "entrypoints": [
-    "static/js/main.dafd3da1.js"
+    "static/js/main.900edb69.js"
   ]
 }
